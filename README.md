@@ -1,4 +1,4 @@
-# 🌊 Christchurch Rates Burden Analysis
+# 🌊 Geospatial analysis of residential rates burden
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
